@@ -127,8 +127,6 @@ You can also use the **Live Server** extension in VS Code for a better developme
 
 ## Screenshots
 
-Add your project screenshots here:
-
 ```md
 ![Coffee Corner Screenshot](./coffeeCorner.png)
 ```
