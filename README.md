@@ -130,7 +130,7 @@ You can also use the **Live Server** extension in VS Code for a better developme
 Add your project screenshots here:
 
 ```md
-![Coffee Corner Screenshot](./images/screenshot.png)
+![Coffee Corner Screenshot](./coffeeCorner.png)
 ```
 
 ---
@@ -156,8 +156,8 @@ Some features that can be added in the future:
 
 Frontend / Software Developer
 
-* GitHub: `your-github-username`
-* Email: `your-email@example.com`
+* GitHub: `nazmul-07`
+* Email: `ytnazmul535@gmail.com`
 
 ---
 
@@ -170,4 +170,3 @@ Feel free to use and modify the project for your own practice.
 
 🚀 **Live Website:** [View Coffee Corner](https://nazmul-07.github.io/Coffee-Corner/)
 
-> Replace `https://your-live-demo-url.com` with your actual deployed website URL.
