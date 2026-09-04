@@ -96,7 +96,7 @@ coffee-corner/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/coffee-corner.git
+git clone https://github.com/nazmul-07/coffee-corner.git
 ```
 
 2. Navigate to the project directory:
